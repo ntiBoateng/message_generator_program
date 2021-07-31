@@ -15,6 +15,6 @@ This project is made up of four different pieces of data, which will be displaye
 + Build a message generator program using JavaScript
 + Use Git version control
 + Use command line
-+ Develop locally on your compute
++ Develop locally on a computer
 ## About Me
 I like to learn new things from the outside world...
